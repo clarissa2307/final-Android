@@ -5,8 +5,10 @@
     <dimen name="cardCornerRadius">4dp</dimen>
     <dimen name="altoImageViewHome">150dp</dimen>
     
-    <dimen name="tamanoTitilo">20sp</dimen>
+    <dimen name="tamanioTitulo">20sp</dimen>
     <dimen name="marginHomeSubtitulo">10dp</dimen>
-    <dimen name="tamanoSubtitilo">15sp</dimen>
+    <dimen name="tamanioSubtitulo">15sp</dimen>
 
+    <dimen name="itemScheduleTitulo">30sp</dimen>
+    <dimen name="itemScheduleSubTitulo">20sp</dimen>
 </resources>
